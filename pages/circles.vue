@@ -1,7 +1,7 @@
 <template>
   <section>
     <div class="header">
-      <div class="logo"></div>
+      <div class="logo">MIKESPIN</div>
       <nav>
         <ul>
           <li>Home</li>
